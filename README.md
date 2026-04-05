@@ -37,3 +37,9 @@
 
 - [用語集](glossary.md)
 - [ネーミングガイド](naming-guide.md)
+
+---
+
+## ライセンス
+
+[CC BY 4.0](LICENSE) — GAME OF THE LOTUS PROJECT
