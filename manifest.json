@@ -1,0 +1,13 @@
+{
+  "name": "dark-age-of-tonos",
+  "version": "0.1.0",
+  "description": "遠野洲戦記（The Dark Age of Tonos）: システム非依存TRPGワールドガイド。遠野・岩手を舞台にしたファンタジー変換。",
+  "author": "sasakill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasakill/dark-age-of-tonos.git"
+  },
+  "skills": [
+    ".claude/skills/dark-age-of-tonos"
+  ]
+}
