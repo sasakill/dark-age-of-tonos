@@ -1,0 +1,11 @@
+{
+  "name": "sasakill-plugins",
+  "description": "sasakill's Claude Code plugins",
+  "plugins": [
+    {
+      "name": "dark-age-of-tonos",
+      "description": "遠野洲戦記（The Dark Age of Tonos）— TRPG世界設定・キャンペーンシナリオ",
+      "source": "."
+    }
+  ]
+}

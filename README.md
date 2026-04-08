@@ -33,10 +33,25 @@
 - [シナリオフック集](scenario-hooks/hooks.md)
 - [GMへの手引き](gm-guide/gm-guide.md)
 
+### キャンペーンシナリオ
+
+- [アゾヌムの秘宝](scenarios/treasures_of_azonum/) — 全5セッション+セッション0のキャンペーン
+
 ### リファレンス
 
 - [用語集](glossary.md)
 - [ネーミングガイド](naming-guide.md)
+
+---
+
+## Claude Code Plugin としてインストール
+
+```
+/plugin marketplace add sasakill/dark-age-of-tonos
+/plugin install dark-age-of-tonos
+```
+
+インストール後、Claude Code で `/dark-age-of-tonos` と入力するとワールドガイドを参照できます。
 
 ---
 
